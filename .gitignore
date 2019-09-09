@@ -12,3 +12,7 @@ pom.xml.asc
 .lein-failures
 .nrepl-port
 .cpcache/
+
+/includes/constants.php
+/includes/sms_credentials.php
+/uploads/*
