@@ -16,3 +16,4 @@ pom.xml.asc
 /includes/constants.php
 /includes/sms_credentials.php
 /uploads/*
+laboratory.php
